@@ -11,3 +11,12 @@ Kelas ini berisi ilmu yang ada dalam Fundamental Aplikasi Android
 * Memahami Antarmuka Androiid studio
 * Memahami cara run di emulator/real device
 * berjalan sekitar 15,38%
+
+### 3.Fundamental  
+* Mempelajari penerapan activity
+* Mempelajari Intent Explicit dengan Data maupun tidak
+* Mempelajari Intent Implicit
+* Mempelajari penerapan Fragment
+* Mempelajari perpindahan fragment dengan data atau tidak
+* Mempelajari perubahan kode fragment
+* berjalan sekitar 23,07%
